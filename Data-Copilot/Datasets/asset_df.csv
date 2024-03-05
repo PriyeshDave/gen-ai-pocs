@@ -1,0 +1,221 @@
+employee_id,laptop_model,manufacturer
+1001,macbook pro,Apple
+1002,macbook air,Apple
+1003,dell,DELL
+1004,macbook air,Apple
+1005,dell,DELL
+1006,macbook pro,Apple
+1007,macbook air,Apple
+1008,dell,DELL
+1009,lenovo,Lenovo
+1010,dell,DELL
+1011,macbook air,Apple
+1012,hp,HP
+1013,hp,HP
+1014,dell,DELL
+1015,macbook air,Apple
+1016,dell,DELL
+1017,macbook air,Apple
+1018,hp,HP
+1019,macbook pro,Apple
+1020,macbook pro,Apple
+1021,macbook pro,Apple
+1022,dell,DELL
+1023,macbook pro,Apple
+1024,dell,DELL
+1025,macbook pro,Apple
+1026,macbook air,Apple
+1027,macbook air,Apple
+1028,lenovo,Lenovo
+1029,dell,DELL
+1030,hp,HP
+1031,dell,DELL
+1032,macbook air,Apple
+1033,lenovo,Lenovo
+1034,macbook pro,Apple
+1035,macbook air,Apple
+1036,dell,DELL
+1037,macbook pro,Apple
+1038,macbook pro,Apple
+1039,lenovo,Lenovo
+1040,macbook pro,Apple
+1041,macbook pro,Apple
+1042,lenovo,Lenovo
+1043,macbook pro,Apple
+1044,macbook air,Apple
+1045,macbook air,Apple
+1046,macbook air,Apple
+1047,macbook air,Apple
+1048,lenovo,Lenovo
+1049,dell,DELL
+1050,dell,DELL
+1051,lenovo,Lenovo
+1052,macbook air,Apple
+1053,lenovo,Lenovo
+1054,dell,DELL
+1055,lenovo,Lenovo
+1056,dell,DELL
+1057,macbook air,Apple
+1058,hp,HP
+1059,dell,DELL
+1060,macbook pro,Apple
+1061,macbook pro,Apple
+1062,macbook pro,Apple
+1063,macbook air,Apple
+1064,macbook air,Apple
+1065,hp,HP
+1066,dell,DELL
+1067,lenovo,Lenovo
+1068,hp,HP
+1069,hp,HP
+1070,macbook air,Apple
+1071,hp,HP
+1072,hp,HP
+1073,dell,DELL
+1074,macbook air,Apple
+1075,macbook pro,Apple
+1076,hp,HP
+1077,macbook pro,Apple
+1078,macbook pro,Apple
+1079,dell,DELL
+1080,dell,DELL
+1081,macbook air,Apple
+1082,dell,DELL
+1083,dell,DELL
+1084,hp,HP
+1085,macbook air,Apple
+1086,macbook pro,Apple
+1087,dell,DELL
+1088,hp,HP
+1089,macbook air,Apple
+1090,macbook air,Apple
+1091,macbook air,Apple
+1092,macbook pro,Apple
+1093,dell,DELL
+1094,lenovo,Lenovo
+1095,hp,HP
+1096,macbook pro,Apple
+1097,macbook pro,Apple
+1098,macbook air,Apple
+1099,hp,HP
+1100,lenovo,Lenovo
+1101,dell,DELL
+1102,macbook air,Apple
+1103,dell,DELL
+1104,macbook air,Apple
+1105,hp,HP
+1106,hp,HP
+1107,macbook air,Apple
+1108,dell,DELL
+1109,macbook air,Apple
+1110,lenovo,Lenovo
+1111,hp,HP
+1112,macbook air,Apple
+1113,dell,DELL
+1114,macbook air,Apple
+1115,dell,DELL
+1116,macbook air,Apple
+1117,hp,HP
+1118,macbook air,Apple
+1119,lenovo,Lenovo
+1120,dell,DELL
+1121,dell,DELL
+1122,macbook pro,Apple
+1123,dell,DELL
+1124,hp,HP
+1125,dell,DELL
+1126,macbook air,Apple
+1127,macbook air,Apple
+1128,lenovo,Lenovo
+1129,dell,DELL
+1130,dell,DELL
+1131,lenovo,Lenovo
+1132,lenovo,Lenovo
+1133,hp,HP
+1134,dell,DELL
+1135,macbook pro,Apple
+1136,dell,DELL
+1137,dell,DELL
+1138,lenovo,Lenovo
+1139,macbook pro,Apple
+1140,lenovo,Lenovo
+1141,dell,DELL
+1142,lenovo,Lenovo
+1143,macbook air,Apple
+1144,lenovo,Lenovo
+1145,dell,DELL
+1146,dell,DELL
+1147,macbook pro,Apple
+1148,dell,DELL
+1149,macbook air,Apple
+1150,macbook air,Apple
+1151,macbook pro,Apple
+1152,lenovo,Lenovo
+1153,dell,DELL
+1154,lenovo,Lenovo
+1155,macbook air,Apple
+1156,macbook air,Apple
+1157,macbook air,Apple
+1158,lenovo,Lenovo
+1159,lenovo,Lenovo
+1160,hp,HP
+1161,macbook air,Apple
+1162,macbook pro,Apple
+1163,macbook air,Apple
+1164,macbook pro,Apple
+1165,macbook pro,Apple
+1166,macbook pro,Apple
+1167,hp,HP
+1168,macbook air,Apple
+1169,macbook air,Apple
+1170,macbook air,Apple
+1171,hp,HP
+1172,lenovo,Lenovo
+1173,macbook air,Apple
+1174,hp,HP
+1175,hp,HP
+1176,hp,HP
+1177,macbook pro,Apple
+1178,macbook pro,Apple
+1179,dell,DELL
+1180,lenovo,Lenovo
+1181,dell,DELL
+1182,hp,HP
+1183,dell,DELL
+1184,dell,DELL
+1185,lenovo,Lenovo
+1186,macbook pro,Apple
+1187,hp,HP
+1188,lenovo,Lenovo
+1189,dell,DELL
+1190,hp,HP
+1191,hp,HP
+1192,hp,HP
+1193,dell,DELL
+1194,lenovo,Lenovo
+1195,macbook air,Apple
+1196,macbook air,Apple
+1197,macbook air,Apple
+1198,macbook pro,Apple
+1199,lenovo,Lenovo
+1200,lenovo,Lenovo
+1201,macbook pro,Apple
+1202,dell,DELL
+1203,macbook air,Apple
+1204,macbook air,Apple
+1205,macbook air,Apple
+1206,macbook air,Apple
+1207,macbook pro,Apple
+1208,macbook air,Apple
+1209,dell,DELL
+1210,hp,HP
+1211,macbook pro,Apple
+1212,macbook air,Apple
+1213,lenovo,Lenovo
+1214,dell,DELL
+1215,macbook air,Apple
+1216,lenovo,Lenovo
+1217,macbook air,Apple
+1218,hp,HP
+1219,dell,DELL
+1220,hp,HP

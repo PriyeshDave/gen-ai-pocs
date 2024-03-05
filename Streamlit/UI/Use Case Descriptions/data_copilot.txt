@@ -1,0 +1,1 @@
+Data Copilot empowers business users to interact with data platforms using natural language, unlocking valuable insights without technical expertise. By enabling tabular data interpretation and visual inferences, Data Copilot bridges the gap between raw data and actionable knowledge, driving faster decision-making and increased data literacy across your organization.
